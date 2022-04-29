@@ -39,8 +39,6 @@ I've been working as frontend developer for about 6 years right now, i've been t
 
 <p align="left"> <a href="https://www.github.com/thomijasir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/thomijasir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thomijasir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@thomijasir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/thomijasirs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/thomijasir"><img src="https://github-readme-stats.vercel.app/api?username=thomijasir&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thomijasir's GitHub stats" /></a>
@@ -49,8 +47,6 @@ I've been working as frontend developer for about 6 years right now, i've been t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/thomijasir/react-boilerplate-hooks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thomijasir&repo=react-boilerplate-hooks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/thomijasir/venus-search-country" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thomijasir&repo=venus-search-country&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/thomijasir/react-boilerplate-hooks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thomijasir&repo=react-boilerplate-hooks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/thomijasir/venus-search-country" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thomijasir&repo=venus-search-country&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center"><a href="https://github.com/thomijasir/full-stack-todo-list" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thomijasir&repo=full-stack-todo-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
