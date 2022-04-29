@@ -1,6 +1,3 @@
-Thomi Jasir
-============================
-
 Professional React Developer
 ----------------------------
 
