@@ -10,10 +10,6 @@ I've been working as frontend developer for about 6 years right now, i've been t
 * 🤝  I'm open to collaborating on financial, auto, and health care digital technology
 * ⚡  Focus on react project.
 
-<a href="https://www.twitter.com/thomijasirs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/thomijasirs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
