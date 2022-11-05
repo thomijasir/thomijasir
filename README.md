@@ -5,7 +5,7 @@ I've been working as frontend developer for about 6 years right now, i've been t
 
 * 🌍  I'm based in Everywhere (Nomadic)
 * ✉️  You can contact me at [thomijasir@live.com](mailto:thomijasir@live.com)
-* 🚀  I'm currently working on [DANA Indonesia (Fintech Company)](http://www.dana.id/)
+* 🚀  I'm currently working on [GoTo Indonesia (PT GoTo Gojek Tokopedia Tbk)](https://www.gojek.com/)
 * 🧠  I'm learning Efficient Software Architecture
 * 🤝  I'm open to collaborating on financial, auto, and health care digital technology
 * ⚡  Focus on react project.
