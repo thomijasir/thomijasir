@@ -1,14 +1,14 @@
-Professional React Developer
+Professional Frontend Expert
 ----------------------------
 
-I've been working as frontend developer for about 6 years right now, i've been try and working on many various frontend library and framework such as React, Agular and Vue and now im focusing on react, because i believe react is more powerful and most great framework in the feature because of Hooks Features. and Im interested on financial, auto, and health care digital technology.
+I've been working as a frontend developer for about **+6 years** right now, I've been trying and working on many various frontend libraries and frameworks such as **React**, **Solid**, **Next**, **Nuxt**, **Nest**, **Agular**, and **Vue** and now im focusing on **React and Solid**, because I believe react is a more powerful and most great framework in the feature because of **Hooks Features**. and Im interested on **Financial**, auto, and health care digital technology.
 
 * 🌍  I'm based in Everywhere (Nomadic)
 * ✉️  You can contact me at [thomijasir@live.com](mailto:thomijasir@live.com)
 * 🚀  I'm currently working on [GoTo Indonesia (PT GoTo Gojek Tokopedia Tbk)](https://www.gojek.com/)
-* 🧠  I'm learning Efficient Software Architecture
-* 🤝  I'm open to collaborating on financial, auto, and health care digital technology
-* ⚡  Focus on react project.
+* 🤝  I'm open to collaborating on financial, auto, and healthcare digital technology
+* 🧠  Efficient Software Architecture
+* ⚡  Advance in **TypeScript**.
 
 ### Skills
 
@@ -32,15 +32,10 @@ I've been working as frontend developer for about 6 years right now, i've been t
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/thomijasir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/thomijasir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thomijasir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@thomijasir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/thomijasirs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/thomijasir"><img src="https://github-readme-stats.vercel.app/api?username=thomijasir&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thomijasir's GitHub stats" /></a>
-
-<a href="https://github.com/thomijasir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomijasir&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
