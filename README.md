@@ -1,14 +1,17 @@
 Professional Frontend Expert
 ----------------------------
 
-I've been working as a frontend developer for about **+6 years** right now, I've been trying and working on many various frontend libraries and frameworks such as **React**, **Solid**, **Next**, **Nuxt**, **Nest**, **Agular**, and **Vue** and now im focusing on **React and Solid**, because I believe react is a more powerful and most great framework in the feature because of **Hooks Features**. and Im interested on **Financial**, auto, and health care digital technology.
+I've been working as a frontend developer for about **+7 years**. I've tried and worked with various frontend libraries and frameworks such as **React**, **Solid**, **Next**, **Nuxt**, **Nest**, **Angular**, and **Vue**. Currently, I'm focusing on **React, Solid, and Astro** because I believe React is a more powerful and promising framework for the future. I'm also interested in digital technology related to **financial**, auto, and healthcare industries.
 
-* 🌍  I'm based in Everywhere (Nomadic)
-* ✉️  You can contact me at [thomijasir@live.com](mailto:thomijasir@live.com)
-* 🚀  I'm currently working on [GoTo Indonesia (PT GoTo Gojek Tokopedia Tbk)](https://www.gojek.com/)
+* 🌍  I'm based in Singapore
+* ✉️   Business and project inquiries [thomijasir@live.com](mailto:thomijasir@live.com)
+* 🚀  I'm currently working at **UOB Singapore**
 * 🤝  I'm open to collaborating on financial, auto, and healthcare digital technology
 * 🧠  Efficient Software Architecture
 * ⚡  Advance in **TypeScript**.
+
+### Products
+* [Fuelpro - Vehicle expenses made easy](https://fuelpro.io/)
 
 ### Skills
 
