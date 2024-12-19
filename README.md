@@ -12,16 +12,16 @@ user interfaces and building robust **frontend architectures**
 
 ### Product
 
-- [Diggdex - Private Blockchain Banking](https://diggdex.com/)
+- [Diggdex - Private blockchain banking](https://diggdex.com/)
 - [Fuelpro - Vehicle expenses made easy](https://fuelpro.io/)
 
 ### Skills
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/neovim.svg" width="32" height="32" alt="Neovim" />
+    <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/neovim.svg" width="30" height="30" alt="Neovim" />
     <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/vscode.svg" width="36" height="36" alt="Vscode" />
     <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/rust.svg" width="36" height="36" alt="Rust" />
-    <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/typescript.svg" width="34" height="34" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/typescript.svg" width="30" height="30" alt="TypeScript" />
     <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/javascript.svg" width="36" height="36" alt="JavaScript" />
     <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/dart.svg" width="36" height="36" alt="Dart" />
     <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/flutter.svg" width="36" height="36" alt="Flutter" />
