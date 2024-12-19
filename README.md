@@ -48,15 +48,15 @@ user interfaces and building robust **frontend architectures**
         <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/github.svg" width="32" height="32" />
     </a>
     <a href="http://www.instagram.com/thomijasir" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/instagram.svg" width="32" height="32" />
     </a> 
     <a href="https://www.linkedin.com/in/thomijasir" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/linkedin.svg" width="32" height="32" />
     </a>
     <a href="http://www.medium.com/@thomijasir" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/medium.svg" width="32" height="32" />
     </a>
     <a href="https://www.twitter.com/thomijasirs" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/x.svg" width="32" height="32" />
     </a>
 </p>
