@@ -41,7 +41,7 @@ user interfaces and building robust **frontend architectures**
     <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/bash.svg" width="36" height="36" alt="Bash" />
 </p>
 
-## Socials
+### Socials
 
 <p align="left">
     <a href="https://www.github.com/thomijasir" target="_blank" rel="noreferrer">
