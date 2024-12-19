@@ -1,4 +1,4 @@
-## Professional Software Engineer
+# Professional Software Engineer
 
 I specialize in creating **high-performance web** and **mobile applications**, with expertise in designing intuitive
 user interfaces and building robust **frontend architectures**
@@ -10,12 +10,12 @@ user interfaces and building robust **frontend architectures**
 - 🧠  Efficient Software Architecture
 - ⚡  Advance in **TypeScript**, **Dart** and **Rust**.
 
-### Product
+## Product
 
 - [Diggdex - Private blockchain banking](https://diggdex.com/)
 - [Fuelpro - Vehicle expenses made easy](https://fuelpro.io/)
 
-### Skills
+## Expertise
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/neovim.svg" width="32" height="36" alt="Neovim" />
@@ -41,11 +41,11 @@ user interfaces and building robust **frontend architectures**
     <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/bash.svg" width="36" height="36" alt="Bash" />
 </p>
 
-### Socials
+## Socials
 
 <p align="left">
     <a href="https://www.github.com/thomijasir" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/thomijasir/dotfiles/refs/heads/main/icons/github.svg" width="32" height="32" />
     </a>
     <a href="http://www.instagram.com/thomijasir" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
