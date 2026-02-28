@@ -8,12 +8,23 @@ user interfaces and building robust **frontend architectures**
 - 🚀 I'm currently working at **UOB Singapore**
 - 🤝  I'm open to collaborating on financial, auto, and healthcare digital technology
 - 🧠  Efficient Software Architecture
-- ⚡  Advance in **TypeScript**, **Dart** and **Rust**.
+- ⚡  Advance in **TypeScript** and **Rust**.
+- Web: [www.venobi.com](https://www.venobi.com)
+
+## OpenSource Project
+
+- [Axum Starter - Boilerplate BE with rust](https://github.com/thomijasir/axum-starter)
+- [Hono Rust Base - Typescript BE with rust dicipline](https://github.com/thomijasir/hono-starter)
 
 ## Product
 
 - [Diggdex - Private blockchain banking](https://diggdex.com/)
 - [Fuelpro - Vehicle expenses made easy](https://fuelpro.io/)
+
+## Recent opinions
+
+- [Stop Shipping Bugs: Build Type-Safe APIs with Bun + Hono](https://www.venobi.com/blog/stop-shipping-bugs-bun-hono)
+- [TypeScript Patterns That Changed How I Write Code](https://www.venobi.com/blog/typescript-advanced-patterns)
 
 ## Expertise
 
